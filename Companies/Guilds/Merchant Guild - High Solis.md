@@ -8,4 +8,5 @@ Regions: High Solis
 ## History
 
 ## Connections
-- Riven Hale
+- Riven Hale (To Check)
+- John Strong
