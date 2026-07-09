@@ -21,7 +21,9 @@ The challenge proposed was to move a stick (immovable rod). The reward when move
 - Goliaths move: Kill everyone in the village
 - The Stupid Four move: Kill entire Toothless Clan
   
-Korbin was not able to move it and started to kill his entire clan. After as a man of his word, he let The Stupid Four kill him. After which they decapitated him.
+Korbin was not able to move it and started to kill his entire clan.
+After as a man of his word, he let The Stupid Four kill him.
+After which they decapitated him.
 ```
 
 ## Shops
