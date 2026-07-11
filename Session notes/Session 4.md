@@ -1,7 +1,7 @@
 "If it’s a guide you need, I know the marsh. If it’s the children you mean to save, then I’m coming with you." - Nessa, daughter of the mayor
 
 **Date:**  11/07/2026
-**Party Level:**  
+**Party Level:**  6
 
 ---
 

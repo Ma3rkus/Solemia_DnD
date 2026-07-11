@@ -24,7 +24,7 @@
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": false,
+  "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
@@ -33,7 +33,7 @@
   "gitDir": "",
   "showFileMenu": true,
   "authorInHistoryView": "hide",
-  "dateInHistoryView": true,
+  "dateInHistoryView": false,
   "diffStyle": "split",
   "hunks": {
     "showSigns": false,
