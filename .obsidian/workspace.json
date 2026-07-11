@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "62ef52aefa535dd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e96774f0866a6dbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeccd33f0f5a98dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session notes/Session 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d0e2d3711e12f69",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa392a700eee0c53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "158be17ff009e6b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Verkenner"
+            }
+          },
+          {
+            "id": "07446c784f9a3ba1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Zoeken"
+            }
+          },
+          {
+            "id": "f2229cbee1171728",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bladwijzers"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a71d102318a7224c",
+    "type": "split",
+    "children": [
+      {
+        "id": "07027fb533a46ddf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bc8a314360c697b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session notes/Session 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Terugverwijzingen voor Session 4"
+            }
+          },
+          {
+            "id": "bcdad862499074e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session notes/Session 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Uitgaande verwijzingen van Session 4"
+            }
+          },
+          {
+            "id": "806dd0199f23c2f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Labels"
+            }
+          },
+          {
+            "id": "58adac01dcd16337",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle eigenschappen"
+            }
+          },
+          {
+            "id": "636c20535d2a2de8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Session notes/Session 4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Overzicht van Session 4"
+            }
+          },
+          {
+            "id": "2907bbfa94474fc2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "bases:Nieuwe basis maken": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "eeccd33f0f5a98dc",
+  "lastOpenFiles": [
+    "Session notes/Session Template.md",
+    "Session notes/Session 4.md",
+    "Session notes/Session 3.md",
+    "Pasted image 20260620121054.png",
+    "README.md",
+    "World/Sol Cast Dominion - Kingdom/Solmaris.md",
+    "World/Guild.md",
+    "Solemia_DnD/World/Sol Cast Dominion - Kingdom/Threzkil.md",
+    "Solemia_DnD/World/Sol Cast Dominion - Kingdom/Solmaris.md",
+    "Solemia_DnD/World/Sol Cast Dominion - Kingdom/High Solis.md",
+    "Solemia_DnD/World/Evergreen - Region/Coill Mhór.md",
+    "Solemia_DnD/World/Town - City _ Template.md",
+    "Solemia_DnD/World/Sol Cast Dominion - Kingdom",
+    "Solemia_DnD/World/Guild.md",
+    "Solemia_DnD/World/Evergreen - Region",
+    "Solemia_DnD/World",
+    "Solemia_DnD/Utilities/Thieves' Cant.md",
+    "Solemia_DnD/Utilities",
+    "Solemia_DnD/Session notes/Session Template.md",
+    "Solemia_DnD/Session notes/Session 3.md",
+    "Solemia_DnD/Session notes/Session 2.md",
+    "Solemia_DnD/Session notes/Session 4.md",
+    "Solemia_DnD/Session notes/Session 1.md",
+    "Solemia_DnD/Session notes",
+    "Solemia_DnD/Party - Stupid four/Fintàn Saoirse - Maarten/Rp/Storyline - Integration.md",
+    "Solemia_DnD/Party - Stupid four/Fintàn Saoirse - Maarten/Rp/RP - checks.md",
+    "Solemia_DnD/Party - Stupid four/Fintàn Saoirse - Maarten/Rp/Quotes.md",
+    "Solemia_DnD/Party - Stupid four/Fintàn Saoirse - Maarten/Rp/Insults.md",
+    "Solemia_DnD/Party - Stupid four/Fintàn Saoirse - Maarten/Lore/The contract.md",
+    "Solemia_DnD/Party - Stupid four/Fintàn Saoirse - Maarten/Lore/Pact & Patron.md",
+    "Solemia_DnD/Party - Stupid four/Fintàn Saoirse - Maarten/Lore/Fintàn Saoirse - lore.md",
+    "Solemia_DnD/Party - Stupid four/Fintàn Saoirse - Maarten/Connections/Lady luck.md",
+    "Solemia_DnD/Party - Stupid four/Fintàn Saoirse - Maarten/Rp",
+    "Solemia_DnD/Party - Stupid four/Fintàn Saoirse - Maarten/Lore",
+    "Solemia_DnD/Party - Stupid four/Fintàn Saoirse - Maarten/Connections",
+    "Solemia_DnD/Party - Stupid four/William The Golliath - Wout",
+    "Solemia_DnD/Party - Stupid four/Ignar Solvaris - Aaron",
+    "Solemia_DnD/Pasted image 20260620121054.png",
+    "Solemia_DnD/Attatchments/Pasted image 20260307174129.png",
+    "Solemia_DnD/Attatchments/Pasted image 20260307173558.png",
+    "Solemia_DnD/Attatchments/Pasted image 20260307173523.png",
+    "Solemia_DnD/Attatchments/Pasted image 20260307172358.png",
+    "Solemia_DnD/Attatchments/Pasted image 20260307155947.jpg",
+    "Solemia_DnD/Attatchments/Pasted image 20260222204231.png",
+    "Solemia_DnD/Attatchments/DALL·E-2024-11-29-07.12.21-A-majestic-and-highly-detailed-depiction-of-Cernunnos-the-Celtic-horned-god-surrounded-by-animals-in-a-serene-and-mystical-forest.-Cernunnos-is-port.avif",
+    "Solemia_DnD/Attatchments/28BCFA8A-F4A8-4B89-B479-68EFD5ADF112.png"
+  ]
+}
