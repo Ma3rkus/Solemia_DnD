@@ -7,14 +7,14 @@
 
 _A brief overview of what happened during the session._
 
-The *Stupid Four* accepted the a [[Gold#Rescue the Sol Patrol|Gold level Quest]] from the Merchands Guild and went on their way. Thanks to the information provided by their contact at the Guild, they decided to leave towards Threzkil. The journey by horse and carrage was planned across 2 days. While journeying through the Sol ast Dominion they were able to keep a nice pace due to the paved roads. As they neared the border of Evergreen the paved road made way for hardened soil. After the first day, they decided to set up camp. The second day they arrived at Threzkil.
+The *Stupid Four* accepted the a [[Gold#Rescue the Sol Patrol|Gold level Quest]] from the [[Merchant Guild - High Solis|Merchant Guild]] and went on their way. Thanks to the information provided by their contact at the Guild, they decided to leave towards [[Threzkil]]. The journey by horse and carriage was planned across 2 days. While journeying through the Sol Cast Dominion they were able to keep a nice pace due to the paved roads. As they neared the border of Evergreen the paved road made way for hardened soil. After the first day, they decided to set up camp. The second day they arrived at [[Threzkil]].
 
-The group located their contact in the the local tavern, The mossy mug. Once Denny Dorin was made aware of the task he explained the situation in furhter detail. He asked the group to return all members of The Sol Patrol alive to him.
+The group located their contact in the the local tavern, The mossy mug. Once Denny Dorin was made aware of the task he explained the situation in further detail. He asked the group to return all members of The Sol Patrol alive to him.
 
-The group split up to gahter information.
-Harold tried to go to the Townhall but was blocked by members of The Toothless Clan. They refused Harold and Fintàn access. So Harolds snuck in and talked to the wife of the mayor and his daughter, Nessa.
+The group split up to gather information.
+Harold tried to go to the Town hall but was blocked by members of The Toothless Clan. They refused Harold and Fintàn access. So Harold snuck in and talked to the wife of the mayor and his daughter, Nessa.
 
-After the group reconvined at the town center, Fintàn created a challenge / bet to the leader of the clan, Korbin:
+After the group reconvened at the town center, Fintàn created a challenge / bet to the leader of the clan, Korbin:
 
 Move the stick placed in the center.
 Bets placed:
@@ -22,7 +22,7 @@ Bets placed:
 * The Stupid Four: Kill entire Toothless Clan
 
 The stick in question was an immovable rod. The challenge was accepted and the game started.
-Korbin went first, tried to rage to boost his strenght. But was not able to move the stick.
+Korbin went first, tried to rage to boost his strength. But was not able to move the stick.
 
 Fintàn smoothly disabled the rod and just picked it up.
 
@@ -46,26 +46,28 @@ End of session:
 ### 1. The Bet
 
 **Location:** [[Threzkil]]
-**NPCs Involved:**  Korbin, [[Toothless Clan.md]]
-**Outcome:** End of the [[Toothless Clan.md]]
+**NPC's Involved:**  Korbin, [[Toothless Clan]]
+**Outcome:** End of the [[Toothless Clan]]
 
 ---
 
-## Important NPCs
+## Important NPC's
 
-| Name | Role | Relationship | Notes |
-|--------|------|------------|-------|
-| | | | |
-| | | | |
+| Name        | Role        | Relationship                              | Notes |
+| ----------- | ----------- | ----------------------------------------- | ----- |
+| Denny Dorin | Contact     |                                           |       |
+| Korbin      | Clan leader | Dececed clan leader of the Toothless Clan |       |
+|             | Mayor       | Mayor of Threzkil                         |       |
+| Nessa       |             | Daughter of the Mayor                     |       |
 
 ---
 
 ## Locations Visited
 
-| Location | Description | Notes |
-|----------|-------------|-------|
-| Mossy mug | (tavern) | |
-| Alchemist shop | Contained an unknown emblem of 2 daggers crossing eachother| in High Solis|
+| Location       | Description                                                 | Notes         |
+| -------------- | ----------------------------------------------------------- | ------------- |
+| Mossy mug      | (tavern)                                                    | Threzkil      |
+| Alchemist shop | Contained an unknown emblem of 2 daggers crossing eachother | in High Solis |
 
 ---
 
@@ -79,16 +81,17 @@ Symbol: Sun with fist in front
 
 Currently shortage in knights
 
-Issues in Threzkil (Inbetween Evergreen and Solcast dominion)
-Contact: Denny Dorin (Cleric), encroaching swamp ??? Sol Patrol leaded by Denny, on excursion to swamp. Goal: map the ruines ?
+Issues in Threzkil (In between Evergreen and Solcast dominion)
+Contact: Denny Dorin (Cleric), encroaching swamp ??? Sol Patrol leaded by Denny, on excursion to swamp. Goal: map the ruins ?
 
-After contact: Missie: Retrieve children (safe and alive to Denny Dorin)
+After contact: 
+	Mission: Retrieve children (safe and alive to Denny Dorin)
 
 ---
 
 ## Important Discoveries
 
-- All human made structures are starting to fail structually because of the swamp
+- All human made structures are starting to fail structurally because of the swamp growth 
 - Big frog 
 - 
 - 
