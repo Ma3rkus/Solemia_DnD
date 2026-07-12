@@ -32,6 +32,7 @@ Korbin a man of his word, killed his entire clan. After this massacre he fell to
 
 ## Party Members
 End of session:
+
 | Character | Player | Class/Level | Status |
 |-----------|---------|-------------|---------|
 | Harold | Bram | Fighter/6 | Alive |
@@ -57,8 +58,8 @@ End of session:
 | ----------- | ----------- | ----------------------------------------- | ----- |
 | Denny Dorin | Contact     |                                           |       |
 | Korbin      | Clan leader | Dececed clan leader of the Toothless Clan |       |
-|             | Mayor       | Mayor of Threzkil                         |       |
-| Nessa       |             | Daughter of the Mayor                     |       |
+| Edren Reed  | Mayor       | Mayor of Threzkil                         |       |
+| Nessa Reed  |             | Daughter of the Mayor                     |       |
 
 ---
 

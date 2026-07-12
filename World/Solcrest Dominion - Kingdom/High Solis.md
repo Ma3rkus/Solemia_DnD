@@ -1,7 +1,7 @@
 # High Solis
 
 ---
-Region: Solis dominion
+Region: Solcrest dominion
 Linked to:
 (Key)/rescource:
 

@@ -8,6 +8,27 @@
 ## Session Summary
 
 _A brief overview of what happened during the session._
+Leaving the horses a bit form the road, bound to a cyrpess tree.
+Continuing by foot
+
+paved road is detectable but overrun with mud.
+
+Ignar gets stuck, but unearths a small chest (muddy parchment & amulet)
+
+Getting near to the evergreen.
+
+'Nessa haar broer is ontvoerd en gedood door de bullywugs (jaren geleden)'
+
+We reach the campsite - Ruined keep (not the ruin linked to Denny)
+more normal trees, less swampy
+
+Sleeping God -> bullywugs
+
+Burned first line with fireball
+
+caught childeren to exchange with kobolts for weapons
+
+ended with longrest and looting
 
 ---
 
@@ -94,7 +115,9 @@ _A brief overview of what happened during the session._
 
 ## Quests & Objectives
 
-
+5 mssing patrols
+old reed road
+bullywugs
 
 ---
 

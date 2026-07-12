@@ -40,7 +40,7 @@ No one agrees on what.
 
 ---
 # 🏛 The Major Regions
-## ☀️ Solcast dominion
+## ☀️ Solcrest dominion
 ### High Solis:
 A radiant capital city built on order, discipline, and legacy.
 

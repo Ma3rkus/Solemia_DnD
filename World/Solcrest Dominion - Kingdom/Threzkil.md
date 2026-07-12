@@ -32,6 +32,11 @@ Denny Dorin is in de tavern.
 - Water based creatures kidnapped 
 - Attempted to buy assistance of the [[Toothless Clan]]
 
+### Herbalism shop
+
+### General store
+
+
 Location of kidnapping:
 - Old weed road
 
