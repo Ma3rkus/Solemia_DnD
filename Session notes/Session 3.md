@@ -66,7 +66,7 @@ End of session:
 
 | Location       | Description                                                 | Notes         |
 | -------------- | ----------------------------------------------------------- | ------------- |
-| Mossy mug      | (tavern)                                                    | Threzkil      |
+| Mossy mug      | Tavern                                                      | Threzkil      |
 | Alchemist shop | Contained an unknown emblem of 2 daggers crossing eachother | in High Solis |
 
 ---
