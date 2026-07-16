@@ -3,9 +3,11 @@
 
 ---
 
-## Session Summary
+## Recap From Previous Session
 
-_A brief overview of what happened during the session._
+- 
+- 
+- 
 
 ---
 
@@ -20,11 +22,20 @@ _A brief overview of what happened during the session._
 
 ---
 
-## Recap From Previous Session
+## Session Summary
 
-- 
-- 
-- 
+_A brief overview of what happened during the session._
+
+---
+
+## Party Members
+
+| Character | Player | Class/Level | Status |
+|-----------|---------|-------------|---------|
+| Harold | Bram | | Alive |
+| Ignar Solvaris | Aaron | | Alive |
+| William The Golliath | Wout | | Alive |
+| Fintàn Saoirse | Maarten | | Alive |
 
 ---
 
