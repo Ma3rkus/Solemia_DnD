@@ -8,6 +8,7 @@
 ## Session Summary
 
 _A brief overview of what happened during the session._
+
 Leaving the horses a bit form the road, bound to a cyrpess tree.
 Continuing by foot
 
@@ -34,12 +35,12 @@ ended with longrest and looting
 
 ## Party Members
 
-| Character | Player | Class/Level | Status |
+| Character | Player | Level / Class | Status |
 |-----------|---------|-------------|---------|
-| Harold | Bram | | Alive |
-| Ignar Solvaris | Aaron | | Alive |
-| William The Golliath | Wout | | Alive |
-| Fintàn Saoirse | Maarten | | Alive |
+| Harold | Bram | 6 / Fighter | Alive |
+| Ignar Solvaris | Aaron | 6/ Cleric | Alive |
+| William The Golliath | Wout | 6 / Fighter | Alive |
+| Fintàn Saoirse | Maarten | 6/ Warlogue | Alive |
 
 ---
 
