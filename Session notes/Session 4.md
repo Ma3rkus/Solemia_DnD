@@ -1,7 +1,24 @@
-"If it’s a guide you need, I know the marsh. If it’s the children you mean to save, then I’m coming with you." - Nessa, daughter of the mayor
-
 **Date:**  11/07/2026
 **Party Level:**  6
+
+---
+
+## Party Members
+
+| Character | Player | Level / Class | Status |
+|-----------|---------|-------------|---------|
+| Harold | Bram | 6 / Fighter | Alive |
+| Ignar Solvaris | Aaron | 6/ Cleric | Alive |
+| William The Golliath | Wout | 6 / Fighter | Alive |
+| Fintàn Saoirse | Maarten | 6/ Warlogue | Alive |
+
+---
+
+## Recap From Previous Session
+
+- 
+- 
+- 
 
 ---
 
@@ -30,25 +47,6 @@ Burned first line with fireball
 caught childeren to exchange with kobolts for weapons
 
 ended with longrest and looting
-
----
-
-## Party Members
-
-| Character | Player | Level / Class | Status |
-|-----------|---------|-------------|---------|
-| Harold | Bram | 6 / Fighter | Alive |
-| Ignar Solvaris | Aaron | 6/ Cleric | Alive |
-| William The Golliath | Wout | 6 / Fighter | Alive |
-| Fintàn Saoirse | Maarten | 6/ Warlogue | Alive |
-
----
-
-## Recap From Previous Session
-
-- 
-- 
-- 
 
 ---
 
@@ -132,7 +130,7 @@ bullywugs
 
 ## Session Quotes
 
-> ""
+> "*If it’s a guide you need, I know the marsh. If it’s the children you mean to save, then I’m coming with you.*" - Nessa, daughter of the mayor
 
 > ""
 
