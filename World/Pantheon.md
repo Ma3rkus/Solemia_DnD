@@ -32,5 +32,5 @@ Usually associated with:
 |---|---|---|---|
 |Aird an Teine , Evergreen|Mór-Rioghan|The phantom queen|Goddess of war and death. Often epicted as a beautifull women washing the bloodstained clothes of those fated to die.|
 
-### The sleeping God
-
+### The Sleeping God
+Followed by Bullywugs living on the borer between the Solcrest Dominion and the Evergreen.
