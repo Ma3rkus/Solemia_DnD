@@ -8,17 +8,16 @@
 | Character | Player | Level / Class | Status |
 |-----------|---------|-------------|---------|
 | Harold | Bram | 6 / Fighter | Alive |
-| Ignar Solvaris | Aaron | 6/ Cleric | Alive |
+| Ignar Solvaris | Aaron | 6 / Cleric | Alive |
 | William The Golliath | Wout | 6 / Fighter | Alive |
-| Fintàn Saoirse | Maarten | 6/ Warlogue | Alive |
+| Fintàn Saoirse | Maarten | 6 / Warlogue | Alive |
 
 ---
 
 ## Recap From Previous Session
 
-- 
-- 
-- 
+- Reaching Threzkil
+- The bet
 
 ---
 
@@ -26,89 +25,23 @@
 
 _A brief overview of what happened during the session._
 
-Leaving the horses a bit form the road, bound to a cyrpess tree.
-Continuing by foot
+The Stupid four left Threzkil under guidance of Nessa. After some time they decided to leave the horses bound to a cypress tree a bit away from the road and to continue by foot.
+While walking the original paved road was stilll faintly noticable but overrun with mud, the swamp is truely encroaching.
 
-paved road is detectable but overrun with mud.
+Fintan gets stuck, but while trying to free himself finds a small chest. It contained muddy parchment & an amulet.
 
-Ignar gets stuck, but unearths a small chest (muddy parchment & amulet)
+As the journey continues they near the Evergreens.
 
-Getting near to the evergreen.
+While walking the Stupid Four start to chat up Nessa, she reveals that her vrother was kidnapped and killed by the Bullywugs.
 
-'Nessa haar broer is ontvoerd en gedood door de bullywugs (jaren geleden)'
+At dawn we reach the planned cmapsite / ruined keep. (Not linked to the ruins Denny wanted to investigate.)
+It was placed in a somewhat clearing with some trees (normal, not swamplike).
 
-We reach the campsite - Ruined keep (not the ruin linked to Denny)
-more normal trees, less swampy
+They detected smoke and sounds, so a fireball started a fight with a group of bullywugs. After the battle they interogated one of the remaining bullywugs, afterwhich they endedits life with a mercyful stab. They learned following things:
+* Bullywugs pray to the Sleeping God
+* The children are (to be) exchanged with Kobolts for weapons
 
-Sleeping God -> bullywugs
-
-Burned first line with fireball
-
-caught childeren to exchange with kobolts for weapons
-
-ended with longrest and looting
-
----
-
-## Major Events
-
-### 1. 
-
-**Location:**  
-**NPCs Involved:**  
-**Outcome:**  
-
-**Notes:**
-- 
-- 
-
-### 2.
-
-**Location:**  
-**NPCs Involved:**  
-**Outcome:**  
-
-**Notes:**
-- 
-- 
-
----
-
-## Combat Encounters
-
-### Encounter:
-
-**Enemies:**
-- 
-
-**Location:**
-- 
-
-**Highlights:**
-- 
-- 
-
-**Loot / Rewards:**
-- 
-- 
-
----
-
-## Important NPCs
-
-| Name | Role | Relationship | Notes |
-|--------|------|------------|-------|
-| | | | |
-| | | | |
-
----
-
-## Locations Visited
-
-| Location | Description | Notes |
-|----------|-------------|-------|
-| | | |
-| | | |
+They ended the night by looting and (long)resting.
 
 ---
 
