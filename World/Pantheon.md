@@ -16,6 +16,10 @@ Usually associated with:
 * Passion
 * Light
 
+|Province, Region|Local name|Title|Description|
+|---|---|---|---|
+|Aird an Teine , Evergreen|Cernunnos|Horned Lord of the Wild|He is the god of nature, fertility, and animals. Often depicted with antlers, sitting cross-legged, holding a snake and a torc.|
+
 ### The Endless night
 Usually associated with:
 
@@ -23,6 +27,10 @@ Usually associated with:
 * Memory
 * Cold
 * Inevitability
+
+|Province, Region|Local name|Title|Description|
+|---|---|---|---|
+|Aird an Teine , Evergreen|Mór-Rioghan|The phantom queen|Goddess of war and death. Often epicted as a beautifull women washing the bloodstained clothes of those fated to die.|
 
 ### The sleeping God
 
