@@ -47,6 +47,11 @@ Gnomes are killed
 
 Herald approaches the old lady (Hag)
 
+She proposes a dealm releasing the childern in exchange for: 
+* Mind probing
+* 1 child stays 1 year and 1 day
+* Deliver sealed letter to governer of High Solis
+
 
 
 
