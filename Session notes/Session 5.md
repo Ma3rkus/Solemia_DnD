@@ -58,7 +58,7 @@ Nessa's brother is a transformed creature.
 Notes hint to old abandonned lab in the evergreen
 Connected to figrot
 
-
+Potion was a greater restorationm but slower. Brother of nessa is cured.
 
 ---
 
