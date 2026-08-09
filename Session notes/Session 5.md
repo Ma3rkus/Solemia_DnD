@@ -53,7 +53,7 @@ She proposes a dealm releasing the childern in exchange for:
 * Deliver sealed letter to governer of High Solis
 
 
-
+Nessa's brother is a transformed creature.
 
 ---
 
