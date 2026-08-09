@@ -60,6 +60,12 @@ Connected to figrot
 
 Potion was a greater restorationm but slower. Brother of nessa is cured.
 
+Return to threzkil
+Return to solis 
+confirm bounty (Sol patrol) - Upgraded level with guild
+confirmed bounty (Toothless clan)
+
+
 ---
 
 ## Party Members

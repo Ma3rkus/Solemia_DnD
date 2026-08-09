@@ -10,3 +10,6 @@ Regions: High Solis
 ## Connections
 - Riven Hale (To Check)
 - John Strong
+
+## Relation
+ Platinum
