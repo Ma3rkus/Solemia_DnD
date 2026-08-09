@@ -55,6 +55,10 @@ She proposes a dealm releasing the childern in exchange for:
 
 Nessa's brother is a transformed creature.
 
+Notes hint to old abandonned lab in the evergreen
+Connected to figrot
+
+
 
 ---
 
