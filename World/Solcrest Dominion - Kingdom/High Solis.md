@@ -23,10 +23,17 @@ Linked to:
 
 * blacksmiths
 	* Gold forge
-		* higher level
+		* higher level - Legendary items
+	* Sunsteel Arms
+	* 
 * alchemists
+	* Ember and flask
 * guild
-* 
+	* Merchant guild
+* Arcane Shop
+	* Wondering Eye
+* Clothing & enchantments
+	* Silver Thread
 
 Hall of records
 
