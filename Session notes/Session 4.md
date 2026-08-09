@@ -39,7 +39,7 @@ It was placed in a somewhat clearing with some trees (normal, not swamplike).
 
 They detected smoke and sounds, so a fireball started a fight with a group of bullywugs. After the battle they interogated one of the remaining bullywugs, afterwhich they ended its life with a mercyful stab. They learned following things:
 * Bullywugs pray to the Sleeping God
-* The children are (to be) exchanged with Kobolts for weapons
+* The children are (to be) exchanged with ~~Kobolts~~ an old lady for weapons
 
 They ended the night by looting and (long)resting.
 

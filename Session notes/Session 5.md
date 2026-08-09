@@ -23,6 +23,14 @@
 ## Session Summary
 
 _A brief overview of what happened during the session._
+Sending stone = No reaction
+
+Direction of the big tree (pointed in general direction) - 0.5 day of travel
+used main road (Hardended soil with occasional cobblestone) 
+Swamp makes place for normal forrest with birds
+
+
+
 
 ---
 
