@@ -40,7 +40,10 @@ After some travelling.
 At the roots of the tree is a cove (cozy-ish). Old lady is brewing something in a cauldron. 
 She casts a spell to destroy a clairvoyance spell.
 
-William and 
+William and Fintan flank with nessa.
+
+There are sheep, they are not sheep, but old gnomes
+
 
 
 ---
