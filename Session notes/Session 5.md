@@ -43,6 +43,10 @@ She casts a spell to destroy a clairvoyance spell.
 William and Fintan flank with nessa.
 
 There are sheep, they are not sheep, but old gnomes
+Gnomes are killed
+
+Herald approaches the old lady (Hag)
+
 
 
 
