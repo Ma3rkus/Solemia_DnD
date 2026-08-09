@@ -29,7 +29,18 @@ Direction of the big tree (pointed in general direction) - 0.5 day of travel
 used main road (Hardended soil with occasional cobblestone) 
 Swamp makes place for normal forrest with birds
 
+Strange feeling for this unnatural spring feeling while beeing summer
 
+After some travelling.
+* Willow Ash tree
+* memorabelia are hung in the tree
+* 5 cages in the roots of the tree
+* Sudden death zone (black water)
+
+At the roots of the tree is a cove (cozy-ish). Old lady is brewing something in a cauldron. 
+She casts a spell to destroy a clairvoyance spell.
+
+William and 
 
 
 ---
