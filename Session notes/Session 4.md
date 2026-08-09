@@ -32,12 +32,12 @@ Fintan gets stuck, but while trying to free himself finds a small chest. It cont
 
 As the journey continues they near the Evergreens.
 
-While walking the Stupid Four start to chat up Nessa, she reveals that her vrother was kidnapped and killed by the Bullywugs.
+While walking the Stupid Four start to chat up Nessa, she reveals that her brother was kidnapped and killed by the Bullywugs.
 
-At dawn we reach the planned cmapsite / ruined keep. (Not linked to the ruins Denny wanted to investigate.)
+At dawn we reach the planned cq;psite / ruined keep. (Not linked to the ruins Denny wanted to investigate.)
 It was placed in a somewhat clearing with some trees (normal, not swamplike).
 
-They detected smoke and sounds, so a fireball started a fight with a group of bullywugs. After the battle they interogated one of the remaining bullywugs, afterwhich they endedits life with a mercyful stab. They learned following things:
+They detected smoke and sounds, so a fireball started a fight with a group of bullywugs. After the battle they interogated one of the remaining bullywugs, afterwhich they ended its life with a mercyful stab. They learned following things:
 * Bullywugs pray to the Sleeping God
 * The children are (to be) exchanged with Kobolts for weapons
 
