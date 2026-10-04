@@ -38,7 +38,7 @@ Skull and a not (Enblem of [[Unknown |bandits]] of scattered coast)
 	have reached coil mohr but not entered
 	They are on their way to the black market (Arcade)
 
-
+We go to blackmarket
 
 ---
 
@@ -125,3 +125,9 @@ Skull and a not (Enblem of [[Unknown |bandits]] of scattered coast)
 > ""
 
 ---
+Shopping list Blackmarket ARCADE:
+* Lock and threat
+	* zalf (WD40) (85GP)
+	* Ledge Stone (400GP) | Potentieel TBD
+* Saltglass curious
+	* 

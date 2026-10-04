@@ -49,6 +49,13 @@ Black Market
 	* Underground city (houses, markets)
 	* Visual indicators = Magical lights
 	* Lawless region of High Solis
+	* Shops
+		* Sens' Lock & Threat | Locks & keys (Security)
+		* Salt glass curious
+		* Velvet Ledger
+		* Vexa's Lust & Reliquary
+		* Last Lantern
+		* Peper Ghost
 ## Events
 * circus
 * 
