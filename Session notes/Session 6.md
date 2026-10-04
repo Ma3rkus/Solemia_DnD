@@ -42,6 +42,10 @@ We go to blackmarket and shop
 
 2 Elves where sold to Lord Magristrate Cassian Vain.
 
+Bram nukes the back allay of the velvet ledger
+
+
+
 
 ---
 
