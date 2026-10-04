@@ -1,9 +1,9 @@
-## Break Broken Tooth | 
+## Break Broken Tooth - DONE
 	- 900 GP
 	- By Threzkill refugees
 	- Drive Broken Tooth out of Threzkill
 
-## Rescue the Sol Patrol
+## Rescue the Sol Patrol - DONE
 	- 1000 GP
 	- By Hand of Sol reformist
 	- Recover the missing [[Sol Patrol]] trainees

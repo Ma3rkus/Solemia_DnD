@@ -1,5 +1,5 @@
-**Date:**  
-**Party Level:**  
+**Date:**  04/10/2026
+**Party Level:**  6
 
 ---
 
@@ -25,17 +25,11 @@
 ## Session Summary
 
 _A brief overview of what happened during the session._
+Begin in Guild Hall, looking at the guild board. New group of adventures are planning to do teh medical experiments
 
----
+2 dwarves are hussling the bar
 
-## Party Members
 
-| Character | Player | Class/Level | Status |
-|-----------|---------|-------------|---------|
-| Harold | Bram | | Alive |
-| Ignar Solvaris | Aaron | | Alive |
-| William The Golliath | Wout | | Alive |
-| Fintàn Saoirse | Maarten | | Alive |
 
 ---
 
