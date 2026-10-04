@@ -29,6 +29,15 @@ Begin in Guild Hall, looking at the guild board. New group of adventures are pla
 
 2 dwarves are hussling the bar
 
+Fintan hears 2taps on the bar. At the bar is an obscure person seated, who seems familiar
+
+Interaction: 
+Coil mohr has been found
+2 have ~~vanished~~~ captured
+Skull and a not (Enblem of bandit of scattered coast)
+	have reached coil mohr but not entered
+	They are on their way to the black market (Arcade)
+
 
 
 ---
