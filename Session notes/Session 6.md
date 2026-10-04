@@ -131,3 +131,4 @@ Shopping list Blackmarket ARCADE:
 	* Ledge Stone (400GP) | Potentieel TBD
 * Saltglass curious
 	* Echo Pin (180 GP)
+* 
