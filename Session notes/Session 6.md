@@ -38,7 +38,10 @@ Skull and a not (Enblem of [[Unknown |bandits]] of scattered coast)
 	have reached coil mohr but not entered
 	They are on their way to the black market (Arcade)
 
-We go to blackmarket
+We go to blackmarket and shop
+
+
+
 
 ---
 
