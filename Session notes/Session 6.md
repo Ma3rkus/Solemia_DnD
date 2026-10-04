@@ -130,4 +130,4 @@ Shopping list Blackmarket ARCADE:
 	* zalf (WD40) (85GP)
 	* Ledge Stone (400GP) | Potentieel TBD
 * Saltglass curious
-	* 
+	* Echo Pin (180 GP)
