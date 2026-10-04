@@ -42,6 +42,13 @@ Inn
 	* elegant, but not flashy
 	* 
 
+Black Market
+* Arcade
+	* Knocking sequence to enter
+	* Elevator down
+	* Underground city (houses, markets)
+	* Visual indicators = Magical lights
+	* Lawless region of High Solis
 ## Events
 * circus
 * 

@@ -33,8 +33,8 @@ Fintan hears 2taps on the bar. At the bar is an obscure person seated, who seems
 
 Interaction: 
 Coil mohr has been found
-2 have ~~vanished~~~ captured
-Skull and a not (Enblem of bandit of scattered coast)
+2 have ~~vanished~~~ captured (Eria & Lethial)
+Skull and a not (Enblem of [[Unknown |bandits]] of scattered coast)
 	have reached coil mohr but not entered
 	They are on their way to the black market (Arcade)
 
