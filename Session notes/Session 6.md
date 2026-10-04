@@ -40,7 +40,7 @@ Skull and a not (Enblem of [[Unknown |bandits]] of scattered coast)
 
 We go to blackmarket and shop
 
-
+2 Elves where sold to Lord Magristrate Cassian Vain.
 
 
 ---
